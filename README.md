@@ -532,13 +532,5 @@ If this project helped you find your perfect domain name, please consider:
 - Thanks to all contributors and users of this tool
 - Inspired by the need for accurate domain availability checking
 
----
 
-<div align="center">
-
-**Made with ❤️ by [Kavinda Sithulaka](https://github.com/sithulaka)**
-
-If you found this useful, please star ⭐ the repo!
-
-</div>
 
