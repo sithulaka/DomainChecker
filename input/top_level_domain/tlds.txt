@@ -1,0 +1,6 @@
+.com
+.tech
+.io
+.art
+.studio
+.org
