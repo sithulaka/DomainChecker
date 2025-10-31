@@ -1,0 +1,241 @@
+Domain Name,TLD,Full Domain,Status,Confidence Level,WHOIS Available,DNS Active,DNS Records,HTTP Active,Namecheap API Status,Recommended Action
+google,.com,google.com,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+google,.net,google.net,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+google,.org,google.org,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+google,.info,google.info,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+google,.shop,google.shop,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+google,.store,google.store,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+google,.company,google.company,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+google,.agency,google.agency,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+amazon,.com,amazon.com,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+amazon,.net,amazon.net,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+amazon,.org,amazon.org,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+amazon,.info,amazon.info,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+amazon,.shop,amazon.shop,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+amazon,.store,amazon.store,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+amazon,.company,amazon.company,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+amazon,.agency,amazon.agency,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+facebook,.com,facebook.com,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+facebook,.net,facebook.net,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+facebook,.org,facebook.org,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+facebook,.info,facebook.info,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+facebook,.shop,facebook.shop,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+facebook,.store,facebook.store,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+facebook,.company,facebook.company,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+facebook,.agency,facebook.agency,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+apple,.com,apple.com,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+apple,.net,apple.net,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+apple,.org,apple.org,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+apple,.info,apple.info,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+apple,.shop,apple.shop,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+apple,.store,apple.store,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+apple,.company,apple.company,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+apple,.agency,apple.agency,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+netflix,.com,netflix.com,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+netflix,.net,netflix.net,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+netflix,.org,netflix.org,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+netflix,.info,netflix.info,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+netflix,.shop,netflix.shop,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+netflix,.store,netflix.store,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+netflix,.company,netflix.company,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+netflix,.agency,netflix.agency,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+zoom,.com,zoom.com,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+zoom,.net,zoom.net,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+zoom,.org,zoom.org,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+zoom,.info,zoom.info,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+zoom,.shop,zoom.shop,RESTRICTED/PREMIUM,MEDIUM,Yes,Yes,"A, NS, SOA",No,API_NOT_CONFIGURED,✗ Not available
+zoom,.store,zoom.store,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+zoom,.company,zoom.company,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+zoom,.agency,zoom.agency,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+paypal,.com,paypal.com,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+paypal,.net,paypal.net,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+paypal,.org,paypal.org,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+paypal,.info,paypal.info,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+paypal,.shop,paypal.shop,RESTRICTED/PREMIUM,HIGH,Yes,Yes,"A, NS, SOA",Yes,API_NOT_CONFIGURED,✗ Not available
+paypal,.store,paypal.store,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+paypal,.company,paypal.company,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+paypal,.agency,paypal.agency,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+spotify,.com,spotify.com,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+spotify,.net,spotify.net,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+spotify,.org,spotify.org,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+spotify,.info,spotify.info,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+spotify,.shop,spotify.shop,RESTRICTED/PREMIUM,HIGH,Yes,Yes,"A, NS, SOA",Yes,API_NOT_CONFIGURED,✗ Not available
+spotify,.store,spotify.store,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+spotify,.company,spotify.company,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+spotify,.agency,spotify.agency,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+uber,.com,uber.com,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+uber,.net,uber.net,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+uber,.org,uber.org,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+uber,.info,uber.info,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+uber,.shop,uber.shop,POSSIBLY AVAILABLE,MEDIUM,Yes,Yes,"NS, SOA",No,API_NOT_CONFIGURED,⚠ Verify on registrar website
+uber,.store,uber.store,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+uber,.company,uber.company,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+uber,.agency,uber.agency,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+instagram,.com,instagram.com,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+instagram,.net,instagram.net,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+instagram,.org,instagram.org,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+instagram,.info,instagram.info,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+instagram,.shop,instagram.shop,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+instagram,.store,instagram.store,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+instagram,.company,instagram.company,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+instagram,.agency,instagram.agency,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+techverse,.com,techverse.com,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+techverse,.net,techverse.net,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+techverse,.org,techverse.org,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+techverse,.info,techverse.info,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+techverse,.shop,techverse.shop,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+techverse,.store,techverse.store,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+techverse,.company,techverse.company,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+techverse,.agency,techverse.agency,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+foodify,.com,foodify.com,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+foodify,.net,foodify.net,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+foodify,.org,foodify.org,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+foodify,.info,foodify.info,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+foodify,.shop,foodify.shop,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+foodify,.store,foodify.store,AVAILABLE,MEDIUM,Yes,No,None,No,API_NOT_CONFIGURED,⚠ Check manually before purchase
+foodify,.company,foodify.company,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+foodify,.agency,foodify.agency,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+travelgen,.com,travelgen.com,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+travelgen,.net,travelgen.net,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+travelgen,.org,travelgen.org,AVAILABLE,HIGH,Yes,No,None,No,API_NOT_CONFIGURED,✓ Safe to purchase
+travelgen,.info,travelgen.info,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+travelgen,.shop,travelgen.shop,AVAILABLE,MEDIUM,Yes,No,None,No,API_NOT_CONFIGURED,⚠ Check manually before purchase
+travelgen,.store,travelgen.store,AVAILABLE,MEDIUM,Yes,No,None,No,API_NOT_CONFIGURED,⚠ Check manually before purchase
+travelgen,.company,travelgen.company,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+travelgen,.agency,travelgen.agency,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+mediabox,.com,mediabox.com,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+mediabox,.net,mediabox.net,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+mediabox,.org,mediabox.org,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+mediabox,.info,mediabox.info,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+mediabox,.shop,mediabox.shop,AVAILABLE,MEDIUM,Yes,No,None,No,API_NOT_CONFIGURED,⚠ Check manually before purchase
+mediabox,.store,mediabox.store,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+mediabox,.company,mediabox.company,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+mediabox,.agency,mediabox.agency,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+learnhub,.com,learnhub.com,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+learnhub,.net,learnhub.net,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+learnhub,.org,learnhub.org,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+learnhub,.info,learnhub.info,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+learnhub,.shop,learnhub.shop,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+learnhub,.store,learnhub.store,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+learnhub,.company,learnhub.company,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+learnhub,.agency,learnhub.agency,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+fitpulse,.com,fitpulse.com,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+fitpulse,.net,fitpulse.net,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+fitpulse,.org,fitpulse.org,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+fitpulse,.info,fitpulse.info,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+fitpulse,.shop,fitpulse.shop,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+fitpulse,.store,fitpulse.store,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+fitpulse,.company,fitpulse.company,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+fitpulse,.agency,fitpulse.agency,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+shopifyx,.com,shopifyx.com,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+shopifyx,.net,shopifyx.net,AVAILABLE,HIGH,Yes,No,None,No,API_NOT_CONFIGURED,✓ Safe to purchase
+shopifyx,.org,shopifyx.org,AVAILABLE,HIGH,Yes,No,None,No,API_NOT_CONFIGURED,✓ Safe to purchase
+shopifyx,.info,shopifyx.info,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+shopifyx,.shop,shopifyx.shop,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+shopifyx,.store,shopifyx.store,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+shopifyx,.company,shopifyx.company,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+shopifyx,.agency,shopifyx.agency,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+trendora,.com,trendora.com,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+trendora,.net,trendora.net,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+trendora,.org,trendora.org,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+trendora,.info,trendora.info,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+trendora,.shop,trendora.shop,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+trendora,.store,trendora.store,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+trendora,.company,trendora.company,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+trendora,.agency,trendora.agency,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+codepath,.com,codepath.com,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+codepath,.net,codepath.net,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+codepath,.org,codepath.org,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+codepath,.info,codepath.info,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+codepath,.shop,codepath.shop,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+codepath,.store,codepath.store,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+codepath,.company,codepath.company,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+codepath,.agency,codepath.agency,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+dreamsync,.com,dreamsync.com,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+dreamsync,.net,dreamsync.net,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+dreamsync,.org,dreamsync.org,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+dreamsync,.info,dreamsync.info,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+dreamsync,.shop,dreamsync.shop,AVAILABLE,MEDIUM,Yes,No,None,No,API_NOT_CONFIGURED,⚠ Check manually before purchase
+dreamsync,.store,dreamsync.store,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+dreamsync,.company,dreamsync.company,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+dreamsync,.agency,dreamsync.agency,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+nexora,.com,nexora.com,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+nexora,.net,nexora.net,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+nexora,.org,nexora.org,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+nexora,.info,nexora.info,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+nexora,.shop,nexora.shop,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+nexora,.store,nexora.store,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+nexora,.company,nexora.company,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+nexora,.agency,nexora.agency,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+bluzen,.com,bluzen.com,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+bluzen,.net,bluzen.net,AVAILABLE,HIGH,Yes,No,None,No,API_NOT_CONFIGURED,✓ Safe to purchase
+bluzen,.org,bluzen.org,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+bluzen,.info,bluzen.info,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+bluzen,.shop,bluzen.shop,AVAILABLE,MEDIUM,Yes,No,None,No,API_NOT_CONFIGURED,⚠ Check manually before purchase
+bluzen,.store,bluzen.store,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+bluzen,.company,bluzen.company,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+bluzen,.agency,bluzen.agency,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+quantivo,.com,quantivo.com,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+quantivo,.net,quantivo.net,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+quantivo,.org,quantivo.org,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+quantivo,.info,quantivo.info,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+quantivo,.shop,quantivo.shop,RESTRICTED/PREMIUM,MEDIUM,Yes,Yes,"A, NS, SOA",No,API_NOT_CONFIGURED,✗ Not available
+quantivo,.store,quantivo.store,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+quantivo,.company,quantivo.company,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+quantivo,.agency,quantivo.agency,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+vibraze,.com,vibraze.com,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+vibraze,.net,vibraze.net,AVAILABLE,HIGH,Yes,No,None,No,API_NOT_CONFIGURED,✓ Safe to purchase
+vibraze,.org,vibraze.org,AVAILABLE,HIGH,Yes,No,None,No,API_NOT_CONFIGURED,✓ Safe to purchase
+vibraze,.info,vibraze.info,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+vibraze,.shop,vibraze.shop,AVAILABLE,MEDIUM,Yes,No,None,No,API_NOT_CONFIGURED,⚠ Check manually before purchase
+vibraze,.store,vibraze.store,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+vibraze,.company,vibraze.company,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+vibraze,.agency,vibraze.agency,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+solith,.com,solith.com,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+solith,.net,solith.net,AVAILABLE,HIGH,Yes,No,None,No,API_NOT_CONFIGURED,✓ Safe to purchase
+solith,.org,solith.org,AVAILABLE,HIGH,Yes,No,None,No,API_NOT_CONFIGURED,✓ Safe to purchase
+solith,.info,solith.info,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+solith,.shop,solith.shop,AVAILABLE,MEDIUM,Yes,No,None,No,API_NOT_CONFIGURED,⚠ Check manually before purchase
+solith,.store,solith.store,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+solith,.company,solith.company,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+solith,.agency,solith.agency,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+aeronix,.com,aeronix.com,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+aeronix,.net,aeronix.net,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+aeronix,.org,aeronix.org,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+aeronix,.info,aeronix.info,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+aeronix,.shop,aeronix.shop,AVAILABLE,MEDIUM,Yes,No,None,No,API_NOT_CONFIGURED,⚠ Check manually before purchase
+aeronix,.store,aeronix.store,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+aeronix,.company,aeronix.company,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+aeronix,.agency,aeronix.agency,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+clovix,.com,clovix.com,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+clovix,.net,clovix.net,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+clovix,.org,clovix.org,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+clovix,.info,clovix.info,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+clovix,.shop,clovix.shop,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+clovix,.store,clovix.store,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+clovix,.company,clovix.company,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+clovix,.agency,clovix.agency,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+zenquill,.com,zenquill.com,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+zenquill,.net,zenquill.net,AVAILABLE,HIGH,Yes,No,None,No,API_NOT_CONFIGURED,✓ Safe to purchase
+zenquill,.org,zenquill.org,AVAILABLE,HIGH,Yes,No,None,No,API_NOT_CONFIGURED,✓ Safe to purchase
+zenquill,.info,zenquill.info,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+zenquill,.shop,zenquill.shop,AVAILABLE,MEDIUM,Yes,No,None,No,API_NOT_CONFIGURED,⚠ Check manually before purchase
+zenquill,.store,zenquill.store,AVAILABLE,MEDIUM,Yes,No,None,No,API_NOT_CONFIGURED,⚠ Check manually before purchase
+zenquill,.company,zenquill.company,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+zenquill,.agency,zenquill.agency,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+flarion,.com,flarion.com,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+flarion,.net,flarion.net,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+flarion,.org,flarion.org,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+flarion,.info,flarion.info,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+flarion,.shop,flarion.shop,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+flarion,.store,flarion.store,AVAILABLE,MEDIUM,Yes,No,None,No,API_NOT_CONFIGURED,⚠ Check manually before purchase
+flarion,.company,flarion.company,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+flarion,.agency,flarion.agency,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+trumigo,.com,trumigo.com,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+trumigo,.net,trumigo.net,AVAILABLE,HIGH,Yes,No,None,No,API_NOT_CONFIGURED,✓ Safe to purchase
+trumigo,.org,trumigo.org,AVAILABLE,HIGH,Yes,No,None,No,API_NOT_CONFIGURED,✓ Safe to purchase
+trumigo,.info,trumigo.info,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+trumigo,.shop,trumigo.shop,AVAILABLE,MEDIUM,Yes,No,None,No,API_NOT_CONFIGURED,⚠ Check manually before purchase
+trumigo,.store,trumigo.store,AVAILABLE,MEDIUM,Yes,No,None,No,API_NOT_CONFIGURED,⚠ Check manually before purchase
+trumigo,.company,trumigo.company,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available
+trumigo,.agency,trumigo.agency,TAKEN,HIGH,No,No,None,No,API_NOT_CONFIGURED,✗ Not available

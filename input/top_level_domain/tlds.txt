@@ -1,6 +1,8 @@
 .com
-.tech
-.io
-.art
-.studio
+.net
 .org
+.info
+.shop
+.store
+.company
+.agency
